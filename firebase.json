@@ -1,0 +1,7 @@
+{
+    "storage": {
+      "rules": "storage.rules",
+      "files": ["5070 - Chemistry/**/*"]
+    }
+  }
+  

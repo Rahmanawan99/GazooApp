@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243216632203",
+    "project_id": "gazooapp-f50d0",
+    "storage_bucket": "gazooapp-f50d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243216632203:android:52f8f979438f25c4c5c78e",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTuCqhYP-_wjxUbMBISCNqI_lqbeda1dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
